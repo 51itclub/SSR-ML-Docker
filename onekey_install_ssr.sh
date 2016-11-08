@@ -240,7 +240,8 @@ function install_ss(){
     cd $cur_dir
     # unzip -q manyuser.zip
     # mv shadowsocks-manyuser/shadowsocks /usr/local/
-	git clone https://github.com/se4/SSR-ML-Docker.git /usr/local/shadowsocks
+	git clone https://github.com/se4/SSR-ML-Docker.git /usr/local/
+	unzip -q shadowsocks.zip
     if [ -f /usr/local/shadowsocks/server.py ]; then
         chmod +x /etc/init.d/shadowsocks
 	chmod 755 /usr/local/shadowsocks/shadowsocks/server.py
