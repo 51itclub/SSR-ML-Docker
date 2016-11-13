@@ -4,7 +4,7 @@ export PATH
 #=================================================================#
 #   System Required:  CentOS 6,7, Debian, Ubuntu                  #
 #   Description: Docker for ShadowsocksR Server (ML supported)    #
-#   Author: se4 (originate from AlphaBrock)<https://alphabrock.cn>#
+#   Author: originate from AlphaBrock<https://alphabrock.cn>      #
 #   Thanks: @breakwa11 <https://twitter.com/breakwa11>            #
 #   Thanks: @Teddysun <i@teddysun.com>                            #
 #   Intro:  https://shadowsocks.be/9.html                         #
